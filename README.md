@@ -65,12 +65,12 @@ A project exploring scripting, automated provisioning, and repeatable infrastruc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EPIC_DRYTU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPIC_DRYTU&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Epic-Drytushow_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Drytu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EPIC_DRYTU&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Epic-Drytu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ A project exploring scripting, automated provisioning, and repeatable infrastruc
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EPIC_DRYTU/EPIC_DRYTU/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
+  <img src="https://raw.githubusercontent.com/Epic-Drytu/Epic-Drytu/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ A project exploring scripting, automated provisioning, and repeatable infrastruc
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/EPIC_DRYTU">
+  <a href="https://github.com/Epic-Drytu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
