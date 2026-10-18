@@ -65,7 +65,7 @@ A project exploring scripting, automated provisioning, and repeatable infrastruc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Epic-Drytushow_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Epic-Drytu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Drytu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
