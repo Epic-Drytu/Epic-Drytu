@@ -43,22 +43,10 @@ Building, breaking, and understanding systems — one experiment at a time.
 
 ## 🚀 Featured Projects
 
-<!-- Replace these examples with your actual repositories. -->
-
-### ☁️ Cloud Infrastructure Project
-A hands-on project exploring cloud deployment, networking, access control, and monitoring.
-
-**Focus:** AWS · Linux · Networking · Monitoring
-
-### 🐳 Containerized Application
-A practical application packaged with Docker, with a focus on reproducible environments and deployment.
-
-**Focus:** Docker · Python · Linux
-
-### ⚙️ Infrastructure Automation
-A project exploring scripting, automated provisioning, and repeatable infrastructure workflows.
-
-**Focus:** Python · Bash · AWS
+<p align="center">
+  <a href="https://github.com/Epic-Drytu/ContainerCard"><img src="assets/featured-containercard.svg" width="49%" alt="ContainerCard: compare Docker image size and Trivy findings across Go, Node.js, and Python images." /></a>
+  <a href="https://github.com/Epic-Drytu/ufw-audit"><img src="assets/featured-ufw-audit.svg" width="49%" alt="ufw-audit: check Linux UFW rules against an allowed-port policy." /></a>
+</p>
 
 ---
 
