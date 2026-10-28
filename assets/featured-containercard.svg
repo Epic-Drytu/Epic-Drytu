@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="title desc">
-<title id="title">ContainerCard</title><desc id="desc">Compares image size and Trivy findings across nine Docker image builds for Go, Node.js, and Python.</desc>
-<rect x="1" y="1" width="478" height="188" rx="14" fill="#1a1b27" stroke="#414868" stroke-width="2"/>
-<rect x="24" y="24" width="42" height="42" rx="11" fill="#24283b"/>
-<path d="M31 37h28M31 44h22M31 51h16" stroke="#7dcfff" stroke-width="3" stroke-linecap="round"/>
-<text x="82" y="39" fill="#7dcfff" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">CONTAINER SECURITY</text>
-<text x="24" y="99" fill="#c0caf5" font-family="Arial,sans-serif" font-size="27" font-weight="700">ContainerCard</text>
-<text x="24" y="126" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="14">Nine Docker builds. Compare size and Trivy findings.</text>
-<text x="24" y="148" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="14">Go · Node.js · Python</text>
-<rect x="24" y="160" width="72" height="21" rx="10" fill="#24283b"/><text x="60" y="175" fill="#7dcfff" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700">DOCKER</text>
-<rect x="104" y="160" width="66" height="21" rx="10" fill="#24283b"/><text x="137" y="175" fill="#bb9af7" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700">TRIVY</text>
-<circle cx="442" cy="44" r="5" fill="#7aa2f7"/><circle cx="458" cy="44" r="5" fill="#bb9af7"/><circle cx="426" cy="44" r="5" fill="#7dcfff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="title desc">
+<title id="title">ContainerCard</title><desc id="desc">Nine Docker images for Go, Node.js, and Python compared by size and Trivy findings.</desc>
+<rect x="1" y="1" width="558" height="218" rx="14" fill="#1a1b27" stroke="#292e42" stroke-width="2"/>
+<rect x="26" y="25" width="42" height="42" rx="11" fill="#24283b"/>
+<path d="M35 38h24M35 46h24M35 54h16" stroke="#7dcfff" stroke-width="3" stroke-linecap="round"/>
+<text x="84" y="40" fill="#bf91f3" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">CONTAINER SECURITY</text>
+<text x="26" y="111" fill="#70a5fd" font-family="Arial,sans-serif" font-size="29" font-weight="700">ContainerCard</text>
+<text x="26" y="143" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="15">Nine Docker images compared by size and Trivy findings.</text>
+<text x="26" y="177" fill="#38bdae" font-family="Arial,sans-serif" font-size="13" font-weight="700">GO  ·  NODE.JS  ·  PYTHON</text>
+<text x="26" y="199" fill="#7dcfff" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing=".5">DOCKER  ·  TRIVY</text>
+<circle cx="518" cy="45" r="5" fill="#7dcfff"/><circle cx="536" cy="45" r="5" fill="#bb9af7"/>
 </svg>
