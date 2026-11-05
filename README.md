@@ -53,12 +53,12 @@ Building, breaking, and understanding systems — one experiment at a time.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Epic-Drytu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Drytu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Epic-Drytu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Epic-Drytu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Epic-Drytu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.vercel.app?user=Epic-Drytu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
